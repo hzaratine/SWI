@@ -1,3 +1,3 @@
 # SWI
 
-#Atividades das aulas de Sistemas Web
+Atividades das aulas de Sistemas Web
